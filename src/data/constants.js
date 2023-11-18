@@ -16,7 +16,7 @@ export const Bio = {
     facebook: "https://www.facebook.com/profile.php?id=100007120961221",
 
     resume:
-      "https://drive.google.com/file/d/1lnv-wRByrCx6MN9iP5dKp_3b17sXKs20/view?usp=sharing",
+      "https://drive.google.com/file/d/1GlUyoZF5amLlyeDJ1ATXKQjagN5c34qJ/view?usp=sharing",
   
   };
   
